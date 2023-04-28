@@ -1,13 +1,19 @@
-Projeto Academia API
-API RESTful para gerenciar matrículas, avaliações físicas e alunos de uma academia.
+# Projeto de Academia
 
-Tecnologias utilizadas
-Java 11
-Spring Boot
-Spring Data JPA
-PostgreSQL
-Como executar
-Requisitos
-Java 11 ou superior
-PostgreSQL 9.6 ou superior
-Maven
+
+## Este é um projeto em Java Spring Boot feito junto a DIGITAL INOVATION ONE. O sistema simula um serviço de academia, permitindo matrícula de alunos e avaliação física.
+
+# Tecnologias utilizadas
+## O projeto utiliza as seguintes tecnologias:
+
+* Java 11
+* Spring Boot
+* Spring Data JPA
+* PostgreSQL
+* Funcionalidades
+
+O sistema permite as seguintes funcionalidades:
+
+- [x] Cadastro de novos alunos
+- [x] Realização de avaliações físicas para os alunos
+- [x] Consulta de informações dos alunos cadastrados
